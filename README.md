@@ -16,7 +16,7 @@ This project provides a basic personal health tracker with features for tracking
 - Familiarity with Python libraries (e.g., `pandas`, `numpy`, `matplotlib`)
 
 ## Installation
-1. Clone the repository: `git clone https://github.com/muhammadumermemon/personal-health-tracker-python.git`
+1. Clone the repository: `git clone https://github.com/muhammadumerbinfarooq/personal-health-tracker-python.git`
 2. Navigate to the project directory: `cd personal-health-tracker-python`
 3. Run the program: `python (link unavailable)`
 
